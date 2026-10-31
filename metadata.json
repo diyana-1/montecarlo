@@ -1,0 +1,6 @@
+{
+  "name": "Monte Carlo Stock Price Simulator",
+  "description": "Interactive educational simulator for Financial Mathematics students modeling discrete Geometric Brownian Motion stock price trajectories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
